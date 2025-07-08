@@ -1,14 +1,13 @@
 # 🧠 Smart Loan Eligibility Predictor
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge&logo=vercel)](https://your-deployed-url-here.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Gokulsp858/Smart-Loan-Eligibility-Predictor)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge&logo=vercel)](https://clever-cheesecake-81aa64.netlify.app/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 > A sophisticated AI-powered loan eligibility assessment system that uses advanced machine learning algorithms to predict loan approval chances with detailed risk analysis and real-time results.
 
 ## 🌟 Live Demo
 
-**🔗 [Try the Live Application](https://your-deployed-url-here.netlify.app)**
+**🔗 [Try the Live Application](https://clever-cheesecake-81aa64.netlify.app/)**
 
 *Experience the full functionality of our AI-powered loan predictor with instant results and comprehensive risk assessment.*
 
